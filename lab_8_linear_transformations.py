@@ -34,7 +34,7 @@ section_number="Your Math 215 section number goes here"
 
 # Enter your BYU NetID in between the quotation marks.  NOT YOUR BYU ID NUMBER! 
 
-BYUNetID="58-476-1574"
+BYUNetID=" "
 
 """**Import NumPy**"""
 
